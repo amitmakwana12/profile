@@ -49,7 +49,7 @@ Check out some of the cool stuff I've worked on:
 
 ## 📫 How to Reach Me
 
-- Email: [Your Email]
+- Email: [makwanaamit3019@gmail.com]
 - LinkedIn: [Your LinkedIn]
 - Twitter: [Your Twitter]
 
