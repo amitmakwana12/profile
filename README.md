@@ -15,23 +15,19 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Full-Stack Develope
 ## 🛠️ Technologies & Tools
 
 ### Front-End
-![React Logo](![image](https://github.com/user-attachments/assets/e2f17230-6f75-4e03-ac8e-4e0537f3885a)
+(![image](https://github.com/user-attachments/assets/e2f17230-6f75-4e03-ac8e-4e0537f3885a)
 - **JavaScript** | **React** | **Vue.js** | **HTML5** | **CSS3** | **SASS** | **TailwindCSS**
-
 ### Back-End
-![Node.js Logo](https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png)
+(![image](https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png)
 - **Node.js** | **Express.js** | **Python** | **Django** | **GraphQL**
-
 ### Databases
-![MongoDB Logo](https://download.logo.wine/logo/MongoDB/MongoDB-Logo.wine.png)
+(![image](https://github.com/user-attachments/assets/953e1e6e-2725-4baf-acc1-c5a503e2502b)
 - **MongoDB** | **MySQL** | **PostgreSQL** | **SQLite**
-
 ### DevOps & Tools
-![Docker Logo](https://download.logo.wine/logo/Docker_(software)/Docker_(software)-Logo.wine.png)
+(![image](https://github.com/user-attachments/assets/8b4c4ca9-b03b-467d-9e7d-1f1b61eeae71)
 - **Docker** | **Kubernetes** | **CI/CD** | **AWS** | **Jenkins** | **Git** | **GitHub Actions**
-
 ### Others
-![TypeScript Logo](https://download.logo.wine/logo/TypeScript/TypeScript-Logo.wine.png)
+(![image](https://github.com/user-attachments/assets/2089f0c8-b447-41f5-8941-dabe2a68118d)
 - **TypeScript** | **Next.js** | **NestJS** | **GraphQL**
 
 ## 🔧 Projects
