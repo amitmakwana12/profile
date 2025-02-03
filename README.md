@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Full-Stack Develope
 ## 🛠️ Technologies & Tools
 
 ### Front-End
-![React Logo](https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png)
+![React Logo](![image](https://github.com/user-attachments/assets/e2f17230-6f75-4e03-ac8e-4e0537f3885a)
 - **JavaScript** | **React** | **Vue.js** | **HTML5** | **CSS3** | **SASS** | **TailwindCSS**
 
 ### Back-End
