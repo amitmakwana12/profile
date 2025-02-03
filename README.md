@@ -1,8 +1,8 @@
-# Hi there, I'm [Your Name] 👋
+Hi there, I'm Amit Makwana 👋
 
 Welcome to my GitHub profile! I'm a passionate and dedicated Full-Stack Developer with advanced skills in both front-end and back-end technologies. I love building scalable and efficient applications that provide great user experiences.
 
-![Profile Image](https://your-image-url.com) <!-- Optional: add your profile image -->
+![Profile Image](https://your-image-url.) <!-- Optional: add your profile image -->
 
 ## 👨‍💻 About Me
 
@@ -19,19 +19,19 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Full-Stack Develope
 - **JavaScript** | **React** | **Vue.js** | **HTML5** | **CSS3** | **SASS** | **TailwindCSS**
 
 ### Back-End
-![Node.js Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/Node.js_logo.svg)
+![Node.js Logo](https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png)
 - **Node.js** | **Express.js** | **Python** | **Django** | **GraphQL**
 
 ### Databases
-![MongoDB Logo](https://upload.wikimedia.org/wikipedia/commons/4/4c/MongoDB_Logo.svg)
+![MongoDB Logo](https://download.logo.wine/logo/MongoDB/MongoDB-Logo.wine.png)
 - **MongoDB** | **MySQL** | **PostgreSQL** | **SQLite**
 
 ### DevOps & Tools
-![Docker Logo](https://upload.wikimedia.org/wikipedia/commons/a/a2/Docker_logo.svg)
+![Docker Logo](https://download.logo.wine/logo/Docker_(software)/Docker_(software)-Logo.wine.png)
 - **Docker** | **Kubernetes** | **CI/CD** | **AWS** | **Jenkins** | **Git** | **GitHub Actions**
 
 ### Others
-![TypeScript Logo](https://upload.wikimedia.org/wikipedia/commons/4/4e/Typescript_logo_2020.svg)
+![TypeScript Logo](https://download.logo.wine/logo/TypeScript/TypeScript-Logo.wine.png)
 - **TypeScript** | **Next.js** | **NestJS** | **GraphQL**
 
 ## 🔧 Projects
