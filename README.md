@@ -15,19 +15,19 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Full-Stack Develope
 ## 🛠️ Technologies & Tools
 
 ### Front-End
-(![image](https://github.com/user-attachments/assets/e2f17230-6f75-4e03-ac8e-4e0537f3885a)
+[image](https://github.com/user-attachments/assets/e2f17230-6f75-4e03-ac8e-4e0537f3885a)
 - **JavaScript** | **React** | **Vue.js** | **HTML5** | **CSS3** | **SASS** | **TailwindCSS**
 ### Back-End
-(![image](https://github.com/user-attachments/assets/00085c34-7a7f-43c4-ada6-a78fba95c134)
+[image](https://github.com/user-attachments/assets/00085c34-7a7f-43c4-ada6-a78fba95c134)
 - **Node.js** | **Express.js** | **Python** | **Django** | **GraphQL**
 ### Databases
-(![image](https://github.com/user-attachments/assets/953e1e6e-2725-4baf-acc1-c5a503e2502b)
+[image](https://github.com/user-attachments/assets/953e1e6e-2725-4baf-acc1-c5a503e2502b)
 - **MongoDB** | **MySQL** | **PostgreSQL** | **SQLite**
 ### DevOps & Tools
-(![image](https://github.com/user-attachments/assets/8b4c4ca9-b03b-467d-9e7d-1f1b61eeae71)
+[image](https://github.com/user-attachments/assets/8b4c4ca9-b03b-467d-9e7d-1f1b61eeae71)
 - **Docker** | **Kubernetes** | **CI/CD** | **AWS** | **Jenkins** | **Git** | **GitHub Actions**
 ### Others
-(![image](https://github.com/user-attachments/assets/2089f0c8-b447-41f5-8941-dabe2a68118d)
+[image](https://github.com/user-attachments/assets/2089f0c8-b447-41f5-8941-dabe2a68118d)
 - **TypeScript** | **Next.js** | **NestJS** | **GraphQL**
 
 ## 🔧 Projects
