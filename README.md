@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Full-Stack Develope
 ## 🛠️ Technologies & Tools
 
 ### Front-End
-[image](https://github.com/user-attachments/assets/e2f17230-6f75-4e03-ac8e-4e0537f3885a)
+[!image](https://github.com/user-attachments/assets/e2f17230-6f75-4e03-ac8e-4e0537f3885a)
 - **JavaScript** | **React** | **Vue.js** | **HTML5** | **CSS3** | **SASS** | **TailwindCSS**
 ### Back-End
 [image](https://github.com/user-attachments/assets/00085c34-7a7f-43c4-ada6-a78fba95c134)
