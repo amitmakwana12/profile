@@ -50,8 +50,8 @@ Check out some of the cool stuff I've worked on:
 ## 📫 How to Reach Me
 
 - Email: [makwanaamit3019@gmail.com]
-- LinkedIn: [Your LinkedIn]
-- Twitter: [Your Twitter]
+- LinkedIn: [https://www.linkedin.com/in/amit-makwana-1b020a350/]
+- Twitter: [https://x.com/Amit_makwana_?t=O2NwDzy1Qn0LENDvdx8h_Q&s=09]
 
 ---
 
