@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated Full-Stack Develope
 ## 🛠️ Technologies & Tools
 
 ### Front-End
-[!image](https://github.com/user-attachments/assets/490d989d-7d82-437b-8711-44cc07fc6a73)
+![image](https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small/javascript-logo-javascript-icon-transparent-free-png.png)
 - **JavaScript** | **React** | **Vue.js** | **HTML5** | **CSS3** | **SASS** | **TailwindCSS**
 ### Back-End
 [image](https://github.com/user-attachments/assets/00085c34-7a7f-43c4-ada6-a78fba95c134)
